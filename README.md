@@ -3,9 +3,9 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
+- [What I Learnt](#what-I-learnt)
 - [Technologies](#technologies)
-- [Getting Started](#getting-started)
+- [Setup](#Setup)
 
 ## Introduction
 
@@ -24,7 +24,7 @@ The project is designed with the following components:
 - **Apache Spark**: For data processing with its master and worker nodes.
 - **Cassandra**: Where the processed data will be stored.
 
-## What You'll Learn
+## What I Learnt
 
 - Setting up a data pipeline with Apache Airflow
 - Real-time data streaming with Apache Kafka
@@ -44,7 +44,7 @@ The project is designed with the following components:
 - PostgreSQL
 - Docker
 
-## Getting Started
+## Setup
 
 1. Clone the repository:
     ```bash
