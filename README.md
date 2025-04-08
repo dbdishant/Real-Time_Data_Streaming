@@ -48,7 +48,7 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/dbdishant/Real-Time_Data_Streaming.git]
+    git clone https://github.com/dbdishant/Real-Time_Data_Streaming.git
     ```
 
 2. Navigate to the project directory:
